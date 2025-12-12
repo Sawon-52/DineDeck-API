@@ -1,0 +1,18 @@
+{
+    "name": "mehed/dine-deck-api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mehed\\DineDeckApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sawon-52",
+            "email": "mehedihasansawon.52@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
